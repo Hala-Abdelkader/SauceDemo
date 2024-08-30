@@ -29,5 +29,6 @@ Before running the tests, ensure you have the following installed:
 - Write this command to clone the repository: git clone https://github.com/Hala-Abdelkader/SauceDemo.git
 - Then Write this command to change directory to the folder which has pom.xml file: cd SauceDemo\Web_Test_Automation
 2. **Install Dependencies and Run Tests:**
-   Write this command to build the project and run the tests: mvn install
+
+  Write this command to build the project and run the tests: mvn install
     
